@@ -1,0 +1,14 @@
+{
+  "ethereum": {
+    "name": "Ethereum Mainnet",
+    "rpc_url": "https://eth-mainnet.g.alchemy.com/v2/YOUR_ALCHEMY_API_KEY "
+  },
+  "bsc": {
+    "name": "Binance Smart Chain",
+    "rpc_url": "https://bsc-mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID "
+  },
+  "polygon": {
+    "name": "Polygon Mainnet",
+    "rpc_url": "https://polygon-mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID "
+  }
+}
